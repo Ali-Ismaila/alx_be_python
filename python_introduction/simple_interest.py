@@ -1,17 +1,9 @@
 #principal = 1000, rate = 0.05, and time = 3
-
-P = 1000
-R = 0.05
-T = 3
-
-
-#calculating simple interest
-interest = (P * R * T)
-
-
-#Printing the total amount
-
-print('The simple interest is:', [interest])
-
+p = principal = 1000
+r = rate =0.05
+t = time = 3
+I = interest= p*r*t
+interest = principal*rate*time
+print("The simple interest is:", I)
 
 
