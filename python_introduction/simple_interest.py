@@ -6,12 +6,12 @@ T = 3
 
 
 #calculating simple interest
-I = (P * R * T)
+interest = (P * R * T)
 
 
 #Printing the total amount
 
-print('the simple interest is:', I)
+print('the simple interest is:', [interest])
 
 
 
