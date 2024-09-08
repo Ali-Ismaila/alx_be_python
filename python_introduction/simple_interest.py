@@ -6,8 +6,12 @@ T = 3
 
 
 #calculating simple interest
-SI = (P * R * T)
-#caculating amount = Simple Interest + Principal
-amount = SI
+I = (P * R * T)
+
+
 #Printing the total amount
-print('The simple interest is:',amount)
+print('The simple interest is:',I)
+
+
+
+#(I = P * R * T)
