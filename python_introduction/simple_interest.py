@@ -15,4 +15,3 @@ print('the simple interest is:', I)
 
 
 
-#(I = P * R * T)
