@@ -10,7 +10,8 @@ I = (P * R * T)
 
 
 #Printing the total amount
-print('The simple interest is:',I)
+
+print('the simple interest is:', I)
 
 
 
