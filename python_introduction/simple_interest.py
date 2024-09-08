@@ -11,7 +11,7 @@ interest = (P * R * T)
 
 #Printing the total amount
 
-print('the simple interest is:', [interest])
+print('The simple interest is:', [interest])
 
 
 
